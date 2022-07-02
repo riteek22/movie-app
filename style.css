@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(196, 236, 162);
+    background-size: 500px;
+}
+.up{
+    width: 1367px;
+    height: 100px;
+    background-color:darkslateblue;
+
+}
+
+ul{
+    
+}
+ul li{
+    font-size: 1.2em;
+    float: left;
+    margin: 25px 135px;
+    list-style: none; 
+    font-size: 0.7cm;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-variant: small-caps;
+    color:black ;
+}
+.box{
+    width: 1200px;
+    height: 1250px;
+    margin: 20px 80px;
+    background-color: yellowgreen;
+    border-radius: 20px;
+    background-size: 1200px;
+}
+.lol{
+    width: 800px;
+    height: 190px;
+    background-color: whitesmoke;
+    float:right;
+    margin: -235px 50px;
+}
+.page{
+    font-style: italic;
+    font-size: larger;
+    margin: 10px 10px;
+}
+
+
+.file2{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 20px;
+    margin: 35px 30px;
+}
+p{
+    color: black;
+    
+}
+.folder{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 20px;
+    
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: white;
+}
+.foot footer{
+    width: 800px;
+    height: 100px;
+    margin: 20px 265px;
+    background-color:darkslateblue;
+    border-radius: 30px;
+}
+.foot footer ul{
+
+}
+.foot footer ul li{
+    padding: 10px;
+    margin: 30px 20px;
+    
+
+}
+.CopyR{
+    width: 1349px;
+    height: 80px;
+    background-color:darkslateblue;
+
+}
+h2 p{
+    text-align: center;
+    color: black;
+    padding: 30px;
+}
+.button{
+    width: 75px;
+    height: 30px;
+    background-color:whitesmoke ;
+    color: black;
+    font-weight: 25px;
+    border-radius: 5px 5px;
+    box-shadow: 7px 12px;
+    margin: 80px 680px;
+
+}
+@media (max-width:500px)
+{
+    .up{
+        width: 510px;
+        height: 60px;
+        background-color:red;
+    }
+    ul{
+    
+    }
+    ul li{
+        font-size: 18px;
+            float: left;
+    }
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
